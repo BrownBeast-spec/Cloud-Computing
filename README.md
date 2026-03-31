@@ -4,6 +4,7 @@ This repository is a collection of my hands-on cloud computing labs. I built the
 
 Instead of only reading theory, I practiced by writing code, building Docker images, running services on Kubernetes, working with AWS services, and using Terraform for infrastructure automation.
 
+
 ## Why I Built This Repository
 
 I wanted one place to track what I actually learned by doing. Each lab focuses on a practical skill, and together they show my growth from basic cloud scripts to full cloud-native workflows.
